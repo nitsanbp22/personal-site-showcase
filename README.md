@@ -1,6 +1,8 @@
 # Personal Brand Website | UI/UX, Visual Identity & Front-End Experience
 
-A personal portfolio website designed to bring several creative disciplines into one coherent digital identity: tattoos, social content, branding, websites, and visual work.
+A live personal portfolio and business website designed to bring several creative disciplines into one coherent digital identity: tattoos, social content, branding, websites, and visual work.
+
+The site is deployed under my own custom domain and functions as an active public-facing brand and portfolio experience, not only as a design exercise.
 
 > **Portfolio showcase:** this repository documents the product and design thinking behind the site. The original source repository remains private because it contains large media assets, production-specific contact details, and implementation files that are unnecessary for a portfolio review.
 
@@ -92,7 +94,7 @@ When images, paper textures, and doodles are visually dominant, clickable elemen
 
 ## My role
 
-I led the site from visual concept through UX structure and implementation.
+I led the site from visual concept through UX structure, implementation, launch, and ongoing refinement.
 
 My work included:
 
@@ -107,9 +109,10 @@ My work included:
 - front-end implementation in React
 - asset optimization decisions
 - SEO and social-preview structure
+- custom-domain deployment
 - iterative UI/UX audit and QA across desktop, tablet, and mobile
 
-The project is especially relevant to my UI/UX and Product Design direction because it required balancing brand expression, business goals, content hierarchy, responsiveness, and implementation constraints in one experience.
+The project is especially relevant to my UI/UX and Product Design direction because it required balancing brand expression, business goals, content hierarchy, responsiveness, and implementation constraints in one live experience.
 
 ## Iterative design process
 
@@ -151,7 +154,7 @@ See [`docs/PERFORMANCE_AND_QA.md`](docs/PERFORMANCE_AND_QA.md).
 - custom local typography
 - responsive Hebrew RTL layout
 - SEO, Open Graph, sitemap, and structured metadata
-- Vercel deployment
+- Vercel deployment with custom domain
 
 ## Public showcase scope
 
@@ -180,5 +183,5 @@ If continuing the site as a product-design exercise, I would focus on:
 ---
 
 **Project:** Nitsan BP Personal Website  
-**Status:** Live personal brand website  
+**Status:** Live custom-domain personal brand website  
 **Focus:** UI/UX · visual identity · responsive design · personal branding · front-end execution
