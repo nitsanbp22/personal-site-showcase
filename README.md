@@ -1,4 +1,4 @@
-# Personal Brand Website | UI/UX, Visual Identity & Front-End Experience
+# Personal Brand Website | UI/UX, Visual Identity & Product Design
 
 A **live personal portfolio and business website** designed to bring several creative disciplines into one coherent digital identity: tattoos, social content, branding, websites, and visual work.
 
@@ -172,7 +172,9 @@ The optimization strategy included:
 
 See [`docs/PERFORMANCE_AND_QA.md`](docs/PERFORMANCE_AND_QA.md).
 
-## Front-end stack
+## Implementation
+
+The product and visual direction were implemented as a custom responsive React experience rather than a static design mockup.
 
 - React
 - Vite
@@ -217,4 +219,4 @@ If continuing the site as a product-design exercise, I would focus on:
 
 **Project:** Nitsan BP Personal Website  
 **Status:** Live custom-domain personal brand website  
-**Focus:** UI/UX · visual identity · responsive design · personal branding · front-end execution
+**Focus:** UI/UX · product design · visual identity · responsive design · personal branding · technical execution
