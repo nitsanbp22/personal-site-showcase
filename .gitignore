@@ -1,0 +1,27 @@
+# Environment and credentials
+.env
+.env.*
+!.env.example
+
+# Dependencies and build output
+node_modules/
+dist/
+coverage/
+
+# Local tooling
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# Large/private assets
+*.mp4
+*.mov
+*.avi
+*.ttf
+*.otf
+*.woff
+*.woff2
+
+# Internal tooling
+.agents/
