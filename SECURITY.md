@@ -20,6 +20,21 @@ The source repository contains a large amount of media and direct-contact inform
 
 Keeping the showcase separate makes the public repository smaller, easier to review, and more intentional.
 
+## Screenshot policy
+
+The screenshots included in this repository were selected to demonstrate visual identity, information architecture, project presentation, and responsive behavior.
+
+The public screenshot set intentionally excludes the mobile Contact view because it contains a direct phone number and email address.
+
+The included screenshots focus on:
+
+- hero and first-impression design
+- personal storytelling
+- service architecture
+- selected work
+- tattoo presentation
+- responsive mobile composition
+
 ## Publication review
 
 Before making this repository public or adding screenshots:
@@ -30,5 +45,6 @@ Before making this repository public or adding screenshots:
 - keep direct phone-number configuration out of the showcase
 - verify that any linked public profiles are intentionally public
 - confirm the README accurately reflects the current live experience
+- keep the showcase focused on product and design reasoning rather than mirroring the production repository
 
 The private source repository remains the canonical implementation.
