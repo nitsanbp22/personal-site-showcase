@@ -1,10 +1,23 @@
 # Personal Brand Website | UI/UX, Visual Identity & Front-End Experience
 
-A live personal portfolio and business website designed to bring several creative disciplines into one coherent digital identity: tattoos, social content, branding, websites, and visual work.
+A **live personal portfolio and business website** designed to bring several creative disciplines into one coherent digital identity: tattoos, social content, branding, websites, and visual work.
 
 The site is deployed under my own custom domain and functions as an active public-facing brand and portfolio experience, not only as a design exercise.
 
 > **Portfolio showcase:** this repository documents the product and design thinking behind the site. The original source repository remains private because it contains large media assets, production-specific contact details, and implementation files that are unnecessary for a portfolio review.
+
+## Visual preview
+
+![Nitsan BP desktop hero](assets/screenshots/personal-hero-desktop.png)
+
+<p align="center">
+  <img src="assets/screenshots/personal-mobile-hero.png" width="32%" alt="Nitsan BP mobile hero" />
+  <img src="assets/screenshots/personal-mobile-about.png" width="32%" alt="Nitsan BP mobile about section" />
+</p>
+
+The live site combines personal branding, business positioning, portfolio storytelling, responsive UI, and a deliberately expressive visual system.
+
+See the full [Product Walkthrough](docs/PRODUCT_WALKTHROUGH.md).
 
 ## Design challenge
 
@@ -28,6 +41,8 @@ The visual language is based on a controlled scrapbook and studio-board aestheti
 - photography and project imagery used as part of the composition
 
 The goal was to make the site feel personal, tactile, creative, and recognizably mine rather than like a generic portfolio template.
+
+![About section and collage system](assets/screenshots/personal-about-desktop.png)
 
 ## Information architecture
 
@@ -69,11 +84,23 @@ Text and calls to action
 
 Content and interaction stay above decoration.
 
+### Services need clear business framing
+
+The website represents several kinds of work, so the service architecture needs to help visitors understand what they can actually hire me for instead of presenting everything as one undifferentiated gallery.
+
+![Service architecture](assets/screenshots/personal-services-desktop.png)
+
 ### Different work needs different presentation patterns
 
 A social-media project, a tattoo, and a website are not best communicated through the same card component.
 
 The site uses visual metaphors such as phone frames and polaroids to match the medium being shown while preserving a consistent overall visual language.
+
+![Selected project presentation](assets/screenshots/personal-projects-desktop.png)
+
+The tattoo section adapts the same system to a different discipline through process photography, polaroid framing, and fine-line motifs.
+
+![Tattoo section](assets/screenshots/personal-tattoo-desktop.png)
 
 ### Mobile cannot be a scaled-down desktop collage
 
@@ -155,6 +182,12 @@ See [`docs/PERFORMANCE_AND_QA.md`](docs/PERFORMANCE_AND_QA.md).
 - responsive Hebrew RTL layout
 - SEO, Open Graph, sitemap, and structured metadata
 - Vercel deployment with custom domain
+
+## Case study documentation
+
+- [Product Walkthrough](docs/PRODUCT_WALKTHROUGH.md)
+- [UI/UX Case Study](docs/UI_UX_CASE_STUDY.md)
+- [Performance and QA](docs/PERFORMANCE_AND_QA.md)
 
 ## Public showcase scope
 
